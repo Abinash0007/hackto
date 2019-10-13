@@ -10,3 +10,12 @@ def arr(A):
 	return count
 A =[5, 8, 2, 5, 8, 2, 8, 5, 1, 8, 2 ]
 print (arr(A))
+
+def call_under_reference():
+	a=0
+	if(a==0):
+		print("i am alive)
+	else:
+		      continue
+		      
+call_under_reference()
