@@ -10,3 +10,6 @@ def arr(A):
 	return count
 A =[5, 8, 2, 5, 8, 2, 8, 5, 1, 8, 2 ]
 print (arr(A))
+
+def print_execution:
+	print("code execution succesful!)
